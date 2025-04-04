@@ -1,47 +1,73 @@
 Pramod Poshettiwar
-Pune, India | pramod@gmail.com | +91 1234567811 | LinkedIn Profile
+
+Pune, India | pramod@gmail.com | +91 1234567811 | [LinkedIn Profile]
+
 Professional Summary
-Motivated Java Developer with expertise in object-oriented programming, Spring Boot, Hibernate, REST APIs, and MySQL. Strong problem-solving abilities with hands-on experience in backend development, multithreading, and microservices architecture. Passionate about building high-performance, scalable, and secure applications while following best coding practices.
+
+Results-driven Java Developer with a strong foundation in Core & Advanced Java, Spring Boot, Hibernate, REST APIs, and Microservices Architecture. Skilled in designing scalable backend solutions, optimizing database performance, and implementing clean code principles. Adept at solving complex problems with multithreading, exception handling, and JVM internals. Passionate about building high-performance applications while following industry best practices. A fast learner with a keen eye for UI/UX and a collaborative mindset to deliver seamless end-to-end solutions.
+
 Education
-Savitribai Phule Pune University, Pune - Bachelor of Computer Applications (BCA) (2022 – 2025)
-Ushodaya Junior College, Telangana - Higher Secondary Certificate (HSC) (2021 – 2022)
-Matrusri High School, Telangana - Secondary School Certificate (SSC) (2020)
+
+Savitribai Phule Pune University, Pune – BCA (2022 – 2025)
+Ushodaya Junior College, Telangana – HSC (2021 – 2022)
+Matrusri High School, Telangana – SSC (2020)
+
 Technical Skills
-- Java (Core & Advanced), Object-Oriented Programming
-- Spring Boot, Hibernate, RESTful APIs
-- Multithreading, Exception Handling, JVM Internals
-- Servlets, JSP, JDBC, MySQL
-- Microservices Architecture, API Development
-- Git, GitHub, JUnit, Log4j
-- SOLID Principles, MVC Architecture
-- Docker (Basic), AWS Fundamentals
-- Design Patterns & Clean Code Practices
+
+Java (Core & Advanced), Object-Oriented Programming (OOP)
+
+Multithreading, Exception Handling, JVM Internals
+
+Spring Boot, Hibernate, REST APIs
+
+JDBC, JSP, Servlets
+
+Microservices Architecture
+
+Design Patterns & Clean Code Practices
+
+
 Projects
+
 Hotel Management System (Java Swing, AWT, MySQL)
-- Developed a complete hotel management system with room booking, billing, and authentication features.
-- Implemented optimized MySQL queries for high performance.
-- Built a user-friendly GUI using Java Swing & AWT to enhance UX.
-- Applied exception handling and OOP principles to improve code maintainability.
+
+Developed a complete hotel management system with room booking, billing, and authentication.
+
+Designed a user-friendly GUI and optimized MySQL queries for performance.
+
+Applied OOP principles and exception handling for better maintainability.
+
+
 Certifications
-- Java Programming Masterclass – Udemy | 2024
-- Spring Framework & Microservices – Coursera | 2024
-- Database Management with MySQL – Oracle Academy | 2023
-Key Competencies for Java Developer Role
-- Backend Development: Writing optimized Java code for scalable applications.
-- Database Optimization: Strong expertise in relational databases & SQL queries.
-- API Development: Building RESTful APIs for seamless integrations.
-- Microservices & Cloud: Understanding of distributed architecture.
-- Debugging & Optimization: Identifying and resolving performance bottlenecks.
-- Software Security: Implementing Java security best practices.
+
+Fundamentals of Full Stack Development – ExcelR (2024)
+
+C Language Certification – Disha Computer Institute (2023)
+
+Git and GitHub Certification – ExcelR (2024)
+
+UI/UX Certification – PW (2024)
+
+
 Soft Skills
-- Strong analytical and problem-solving skills
-- Effective communication and teamwork
-- Attention to detail and debugging proficiency
-- Adaptability to new technologies
-- Time management and meeting deadlines
+
+Problem-solving & debugging
+
+Effective communication & teamwork
+
+Quick adaptability & learning
+
+Time management & deadlines
+
+
 Hobbies & Interests
-- Competitive coding (LeetCode, CodeChef)
-- Contributing to open-source Java projects
-- Writing Java and backend development blogs
-- Exploring system design & architecture case studies
-- Playing chess and strategy-based games
+
+Competitive coding (LeetCode, CodeChef)
+
+Contributing to open-source Java projects
+
+Writing Java blogs & case studies
+
+Exploring system design & architecture
+
+Playing chess & strategy games
