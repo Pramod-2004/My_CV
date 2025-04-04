@@ -1,73 +1,73 @@
-Pramod Poshettiwar
+PRAMOD POSHETTIWAR 
 
-Pune, India | pramod@gmail.com | +91 1234567811 | [LinkedIn Profile]
+ 
 
-Professional Summary
++91-xxxxxxxxxx|  xyz@gmail.com  |  Portfolio  |  Github |  Linkedin 
 
-Results-driven Java Developer with a strong foundation in Core & Advanced Java, Spring Boot, Hibernate, REST APIs, and Microservices Architecture. Skilled in designing scalable backend solutions, optimizing database performance, and implementing clean code principles. Adept at solving complex problems with multithreading, exception handling, and JVM internals. Passionate about building high-performance applications while following industry best practices. A fast learner with a keen eye for UI/UX and a collaborative mindset to deliver seamless end-to-end solutions.
+PROFILE 
 
-Education
+Dynamic Java Full Stack Developer with expertise in Core & Advanced Java, Spring Boot, Hibernate, REST APIs, and Microservices. Skilled in building scalable, high-performance backend solutions, optimizing databases, and writing clean, maintainable code. Proficient in multithreading, exception handling, and JVM internals, ensuring efficient and robust applications. A fast learner with a collaborative mindset, committed to delivering high-quality software solutions following industry best practices. 
 
-Savitribai Phule Pune University, Pune – BCA (2022 – 2025)
-Ushodaya Junior College, Telangana – HSC (2021 – 2022)
-Matrusri High School, Telangana – SSC (2020)
+EDUCATION 
 
-Technical Skills
+Savitribai Phule Pune University, Pune | 2022 – 2025 
 
-Java (Core & Advanced), Object-Oriented Programming (OOP)
+Bachelor of Computer Applications (BCA)  
 
-Multithreading, Exception Handling, JVM Internals
+Higher Secondary Certificate (HSC)    | 2020 - 2022 
 
-Spring Boot, Hibernate, REST APIs
+Ushodaya Junior College, Telangana  
 
-JDBC, JSP, Servlets
+Secondary School Certificate (SSC)  | 2019 – 2020 
 
-Microservices Architecture
+Matrusri High School 
 
-Design Patterns & Clean Code Practices
+SKILLS 
 
+Technical: Java (Core & Advanced), Object-Oriented Programming (OOP), Multithreading, Exception Handling, JVM Internals, Spring Boot, Hibernate, REST APIs, JDBC, JSP, Servlets, Microservices. 
 
-Projects
+Tools: Git, Maven, Gradle, Docker, Postman, JIRA, VS Code, IntelliJ IDEA. 
 
-Hotel Management System (Java Swing, AWT, MySQL)
+PROJECTS 
 
-Developed a complete hotel management system with room booking, billing, and authentication.
+Hotel Management System  | 2025 
 
-Designed a user-friendly GUI and optimized MySQL queries for performance.
+Developed a complete system with room booking, billing, and authentication using Java, AWT, Swing, and MySQL. 
 
-Applied OOP principles and exception handling for better maintainability.
+Designed a user-friendly GUI for better user experience. 
 
+Optimized MySQL queries, improving performance by 20%. 
 
-Certifications
+Applied OOP principles and exception handling, reducing system crashes by 30%. 
 
-Fundamentals of Full Stack Development – ExcelR (2024)
+Personal Portfolio Website  |2025 
 
-C Language Certification – Disha Computer Institute (2023)
+Developed a responsive portfolio website using HTML and CSS. 
 
-Git and GitHub Certification – ExcelR (2024)
+Designed a clean and modern UI for showcasing projects and skills. 
 
-UI/UX Certification – PW (2024)
+Implemented CSS animations and transitions for better user experience. 
 
+Ensured cross-device compatibility with a fully responsive layout. 
 
-Soft Skills
+Optimized performance for fast loading speed. 
 
-Problem-solving & debugging
+CERTIFICATIONS  
 
-Effective communication & teamwork
+Fundamentals of Full Stack Development – ExcelR (2024) 
 
-Quick adaptability & learning
+C Language Certification – Disha Computer Institute (2023) 
 
-Time management & deadlines
+Git and GitHub Certification – ExcelR (2024) 
 
+UI/UX Certification – PW (2024) 
 
-Hobbies & Interests
+SOFT SKILLS 
 
-Competitive coding (LeetCode, CodeChef)
+Problem-solving & debugging 
 
-Contributing to open-source Java projects
+Effective communication & teamwork 
 
-Writing Java blogs & case studies
+Quick adaptability & learning 
 
-Exploring system design & architecture
-
-Playing chess & strategy games
+Time management & meeting deadlines 
