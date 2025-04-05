@@ -33,7 +33,3 @@ I am a passionate software developer with expertise in **Java, AWT, Swing, MySQL
 - Quick adaptability & learning  
 - Time management & meeting deadlines  
 
-## 📬 Contact  
-📧 Email: [Your Email]  
-🔗 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/)  
-🐙 GitHub: [Your GitHub Profile](https://github.com/)  
